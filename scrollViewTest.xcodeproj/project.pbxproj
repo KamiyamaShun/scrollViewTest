@@ -40,8 +40,8 @@
 		EFC8916F260DC65300B45924 = {
 			isa = PBXGroup;
 			children = (
-				EFC8917A260DC65300B45924 /* scrollViewTest */,
 				EFC89179260DC65300B45924 /* Products */,
+				EFC8917A260DC65300B45924 /* scrollViewTest */,
 			);
 			sourceTree = "<group>";
 		};
